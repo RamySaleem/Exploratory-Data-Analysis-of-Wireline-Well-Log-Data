@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-Wireline-Well-Log-Data
+• Exploring **118 wells** of  **1 MM+** rows and **29 columns** of wireline petrophysical data using the **Pandas** library.   • Analysed &amp; Visualised wireline logs petrophysical dataset using **Pandas, Numpy, Matplotlib, Plotly &amp; seaborn** libraries  • Discovered insights of wireline logs **quality &amp; interpretation** (missing data, imbalance classes and outliers problems) plus production performance.
