@@ -1,7 +1,7 @@
 # Analysis of Wireline Petrophysical Data
 ## Summary:
-  • Explored 118 wells with over 1 million rows and 29 columns of wireline petrophysical data using the Pandas library.
-  • Analysed and visualised the wireline logs petrophysical dataset using Pandas, NumPy, Matplotlib, Plotly, and seaborn libraries.
+  • Explored 118 wells with over 1 million rows and 29 columns of wireline petrophysical data using the Pandas library. /n
+  • Analysed and visualised the wireline logs petrophysical dataset using Pandas, NumPy, Matplotlib, Plotly, and seaborn libraries./n
   • Identified insights related to wireline logs quality and interpretation including issues like missing data, class imbalances, and outliers, as well as production performance.
 
 ## Objective:
